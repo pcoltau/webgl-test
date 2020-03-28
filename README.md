@@ -1,7 +1,9 @@
 # webgl-test
 A WebGL test, implementing a small game using Pixi.js
 
-# Usage
+![](game.gif)
+
+# How to Play
 
 Clone this repository:
 
